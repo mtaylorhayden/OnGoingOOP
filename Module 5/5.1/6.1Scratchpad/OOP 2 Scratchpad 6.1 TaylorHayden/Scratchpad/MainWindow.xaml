@@ -1,0 +1,30 @@
+﻿<Window x:Class="Scratchpad.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Object-Oriented Programming 2: Scratchpad" Height="390" Width="1060" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button x:Name="directMethodWithDoubleReturnButton" Content="Direct method with double return" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="200" Click="directMethodWithDoubleReturnButton_Click"/>
+        <Button x:Name="delegateButton" Content="Delegate with method" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top" Width="200" Click="delegateButton_Click"/>
+        <Button x:Name="delegateWithAnymousMethodButton" Content="Delegate with anonymous method" HorizontalAlignment="Left" Margin="10,118,0,0" VerticalAlignment="Top" Width="200" Click="delegateWithAnonymousMethodButton_Click"/>
+        <Button x:Name="delegateWithLambdaButton" Content="Delegate with lambda" HorizontalAlignment="Left" Margin="10,145,0,0" VerticalAlignment="Top" Width="200" Click="delegateWithLambdaButton_Click"/>
+        <Button x:Name="funcButton" Content="Func with method" HorizontalAlignment="Left" Margin="215,37,0,0" VerticalAlignment="Top" Width="200" Click="funcButton_Click"/>
+        <Button x:Name="funcWithAnonymousMethodButton" Content="Func with anonymous method" HorizontalAlignment="Left" Margin="215,118,0,0" VerticalAlignment="Top" Width="200" Click="funcWithAnonymousMethodButton_Click"/>
+        <Button x:Name="funcWithLambdaButton" Content="Func with lambda" HorizontalAlignment="Left" Margin="215,145,0,0" VerticalAlignment="Top" Width="200" Click="funcWithLambdaButton_Click"/>
+        <Button x:Name="directMethodWithoutReturnButton" Content="Direct method without return" HorizontalAlignment="Left" Margin="420,10,0,0" VerticalAlignment="Top" Width="200" Click="directMethodWithoutReturnButton_Click"/>
+        <Button x:Name="actionwithMethodButton" Content="Action with method" HorizontalAlignment="Left" Margin="420,37,0,0" VerticalAlignment="Top" Width="200" Click="actionWithMethodButton_Click"/>
+        <Button x:Name="actionWithAnonymousMethodButton" Content="Action with anonymous method" HorizontalAlignment="Left" Margin="420,118,0,0" VerticalAlignment="Top" Width="200" Click="actionWithAnonymousMethodButton_Click"/>
+        <Button x:Name="actionWithLambdaButton" Content="Action with lambda" HorizontalAlignment="Left" Margin="420,145,0,0" VerticalAlignment="Top" Width="200" Click="actionWithLambdaButton_Click"/>
+        <Button x:Name="directMethodWithBoolReturnButton" Content="Direct method with bool return" HorizontalAlignment="Left" Margin="625,10,0,0" VerticalAlignment="Top" Width="200" Click="directMethodWithBoolReturnButton_Click"/>
+        <Button x:Name="predicateWithMethodButton" Content="Predicate with method" HorizontalAlignment="Left" Margin="625,37,0,0" VerticalAlignment="Top" Width="200" Click="predicateWithMethodButton_Click"/>
+        <Button x:Name="predicateWithAnonymousMethodButton" Content="Predicate with anonymous method" HorizontalAlignment="Left" Margin="625,118,0,0" VerticalAlignment="Top" Width="200" Click="predicateWithAnonymousMethodButton_Click"/>
+        <Button x:Name="predicateWithLambdaButton" Content="Predicate with lambda" HorizontalAlignment="Left" Margin="625,145,0,0" VerticalAlignment="Top" Width="200" Click="predicateWithLambdaButton_Click"/>
+        <Button x:Name="findPredicate1Button" Content="Find predicate 1" HorizontalAlignment="Left" Margin="625,172,0,0" VerticalAlignment="Top" Width="200" Click="findPredicate1Button_Click"/>
+        <Button x:Name="findPredicate2Button" Content="Find predicate 2" HorizontalAlignment="Left" Margin="625,199,0,0" VerticalAlignment="Top" Width="200" Click="findPredicate2Button_Click"/>
+        <Button x:Name="paperDirectMethodButton" Content="Paper direct method" HorizontalAlignment="Left" Margin="830,10,0,0" VerticalAlignment="Top" Width="200" Click="paperDirectMethodButton_Click"/>
+        <Button x:Name="paperObserverPatternButton" Content="Paper observer pattern" HorizontalAlignment="Left" Margin="830,37,0,0" VerticalAlignment="Top" Width="200" Click="paperObserverPatternButton_Click"/>
+        <Button x:Name="paperActionButton" Content="Paper action" HorizontalAlignment="Left" Margin="830,64,0,0" VerticalAlignment="Top" Width="200" Click="paperActionButton_Click"/>
+        <Button x:Name="extra1Button" Content="Extra button 1" HorizontalAlignment="Left" Margin="10,259,0,0" VerticalAlignment="Top" Width="200" Click="extra1Button_Click"/>
+        <Button x:Name="extra2Button" Content="Extra button 2" HorizontalAlignment="Left" Margin="10,286,0,0" VerticalAlignment="Top" Width="200" Click="extra2Button_Click"/>
+        <Button x:Name="extra3Button" Content="Extra button 3" HorizontalAlignment="Left" Margin="10,313,0,0" VerticalAlignment="Top" Width="200" Click="extra3Button_Click"/>
+    </Grid>
+</Window>
