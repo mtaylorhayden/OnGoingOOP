@@ -1,0 +1,26 @@
+public enum Magazines
+{ collection of different magazines}
+
+public enum Cd's
+{ collection of different cds}
+
+public possessions<List> MakeListOfPossessions(this.magazines, this.cds)
+{
+	new list of possessions = possessions()
+	
+	possessions.add(this.magazines);
+	possessions.add(this.cds);
+	
+	return possessions;
+}
+
+
+public void SortPossessions(possessions)
+{
+	foreach (Possesion p in this.possessions)
+		{
+			if (p.DateLastUsed < DateTime.Today)
+				{
+					this.Trash(p);
+				}
+}
