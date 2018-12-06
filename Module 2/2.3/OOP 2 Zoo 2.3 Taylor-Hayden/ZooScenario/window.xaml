@@ -1,0 +1,33 @@
+﻿<Window x:Name="window" x:Class="ZooScenario.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZooScenario"
+        mc:Ignorable="d"
+        Title="Object-Oriented Programming 2: Zoo" Height="350.8" Width="440" WindowStartupLocation="CenterScreen" Loaded="window_Loaded">
+    <Grid Margin="10,0,3.6,-20">
+        <Button x:Name="admitGuestButton" Content="Admit Guest" HorizontalAlignment="Left" Height="20" Margin="1,43,0,0" VerticalAlignment="Top" Width="92" Click="admitGuestButton_Click"/>
+        <Button x:Name="feedAnimalButton" Content="Feed Animal" HorizontalAlignment="Left" Margin="1,80,0,0" VerticalAlignment="Top" Width="92" Click="feedAnimalButton_Click"/>
+        <Border x:Name="temperatureBorder" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Right" Height="100" Margin="0,0,0,25.8" VerticalAlignment="Bottom" Width="20" Background="Red"/>
+        <RepeatButton x:Name="increaseTemperature" Content="+" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="23" Margin="0,0,32,65.8" Height="23" Click="increaseTemperature_Click"/>
+        <RepeatButton x:Name="decreaseTemperature" Content="-" HorizontalAlignment="Right" Margin="0,0,32,37.8" VerticalAlignment="Bottom" Width="23" Height="23" RenderTransformOrigin="-1.165,-1.174" Click="decreaseTemperature_Click"/>
+        <Label x:Name="temperatureLabel" Content="Temp" HorizontalAlignment="Right" Margin="0,0,25,95.8" VerticalAlignment="Bottom"/>
+        <ListBox x:Name="animalListBox" HorizontalAlignment="Left" Height="130" Margin="108,43,0,0" VerticalAlignment="Top" Width="100" MouseDoubleClick="animalListBox_MouseDoubleClick"/>
+        <Label Content="Animals" HorizontalAlignment="Left" Margin="109,22,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.082,0.453"/>
+        <ListBox x:Name="guestListBox" HorizontalAlignment="Left" Height="130" Margin="247,43,0,0" VerticalAlignment="Top" Width="96" MouseDoubleClick="guestListBox_MouseDoubleClick"/>
+        <Label Content="Guests" HorizontalAlignment="Left" Margin="249,22,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="removeAnimalButton" Content="Remove Animal" HorizontalAlignment="Left" Margin="109,253,0,0" VerticalAlignment="Top" Width="99" Click="removeAnimalButton_Click"/>
+        <Button x:Name="removeGuestButton" Content="Remove Guest" HorizontalAlignment="Left" Margin="249,224,0,0" VerticalAlignment="Top" Width="94" RenderTransformOrigin="-0.031,0.611" Click="removeGuestButton_Click"/>
+        <ComboBox x:Name="animalTypeComboBox" HorizontalAlignment="Left" Margin="108,191,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button x:Name="addAnimalButton" Content="Add Animal" HorizontalAlignment="Left" Margin="109,224,0,0" VerticalAlignment="Top" Width="99" Click="addAnimalButton_Click"/>
+        <Button x:Name="addGuestButton" Content="Add Guest" HorizontalAlignment="Left" Margin="249,191,0,0" VerticalAlignment="Top" Width="96" Click="addGuestButton_Click"/>
+        <Button Content="Show Cage" x:Name="showCageButton" HorizontalAlignment="Left" Height="20" Margin="249,253,0,0" VerticalAlignment="Top" Width="94" Click="showCageButton_Click"/>
+        <Button x:Name="adoptAnimalButton" Content="Adopt Animal" HorizontalAlignment="Left" Margin="1,115,0,0" VerticalAlignment="Top" Width="92" Click="adoptAnimalButton_Click"/>
+        <Button x:Name="unadpotAnimalButton" Content="Unadpot Animal" HorizontalAlignment="Left" Margin="0,153,0,0" VerticalAlignment="Top" Width="93" Click="unadpotAnimalButton_Click"/>
+        <ComboBox x:Name="changeBehaviorComboBox" HorizontalAlignment="Left" Height="20" Margin="-6,282,0,0" VerticalAlignment="Top" Width="99"/>
+        <Button x:Name="changeBehaviorButton" Content="Change Behavior" HorizontalAlignment="Left" Height="20" Margin="108,282,0,0" VerticalAlignment="Top" Width="100" Click="changeBehaviorButton_Click"/>
+        <Button x:Name="birthAnimalButton" Content="Birth Animal" HorizontalAlignment="Left" Margin="1,190,0,0" VerticalAlignment="Top" Width="92" Height="21" Click="birthAnimalButton_Click"/>
+
+    </Grid>
+</Window>
