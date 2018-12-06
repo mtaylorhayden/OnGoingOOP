@@ -1,0 +1,15 @@
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItems\bin\Debug\ConcessionItems.exe.config
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItems\bin\Debug\ConcessionItems.exe
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItems\bin\Debug\ConcessionItems.pdb
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItems\obj\Debug\ConcessionItems.csprojResolveAssemblyReference.cache
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItems\obj\Debug\MainWindow.g.cs
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItems\obj\Debug\App.g.cs
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItems\obj\Debug\ConcessionItems_MarkupCompile.cache
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItems\obj\Debug\ConcessionItems_MarkupCompile.lref
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItems\obj\Debug\MainWindow.baml
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItems\obj\Debug\ConcessionItems.g.resources
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItems\obj\Debug\ConcessionItems.Properties.Resources.resources
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItems\obj\Debug\ConcessionItems.csproj.GenerateResource.cache
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItems\obj\Debug\ConcessionItems.csproj.CoreCompileInputs.cache
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItems\obj\Debug\ConcessionItems.exe
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItems\obj\Debug\ConcessionItems.pdb

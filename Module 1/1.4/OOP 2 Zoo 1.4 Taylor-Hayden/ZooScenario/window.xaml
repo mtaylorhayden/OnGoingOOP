@@ -1,0 +1,21 @@
+﻿<Window x:Name="window" x:Class="ZooScenario.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZooScenario"
+        mc:Ignorable="d"
+        Title="Object-Oriented Programming 2: Zoo" Height="350.8" Width="440" WindowStartupLocation="CenterScreen" Loaded="window_Loaded">
+    <Grid Margin="10,0,3.6,-20">
+        <Button x:Name="admitGuestButton" Content="Admit Guest" HorizontalAlignment="Left" Height="20" Margin="19,43,0,0" VerticalAlignment="Top" Width="75" Click="admitGuestButton_Click"/>
+        <Button x:Name="feedAnimalButton" Content="Feed Animal" HorizontalAlignment="Left" Margin="19,81,0,0" VerticalAlignment="Top" Width="75" Click="feedAnimalButton_Click"/>
+        <Border x:Name="temperatureBorder" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Right" Height="100" Margin="0,0,0,25.8" VerticalAlignment="Bottom" Width="20" Background="Red"/>
+        <RepeatButton x:Name="increaseTemperature" Content="+" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="23" Margin="0,0,32,65.8" Height="23" Click="increaseTemperature_Click"/>
+        <RepeatButton x:Name="decreaseTemperature" Content="-" HorizontalAlignment="Right" Margin="0,0,32,37.8" VerticalAlignment="Bottom" Width="23" Height="23" RenderTransformOrigin="-1.165,-1.174" Click="decreaseTemperature_Click"/>
+        <Label x:Name="temperatureLabel" Content="Temp" HorizontalAlignment="Right" Margin="0,0,25,95.8" VerticalAlignment="Bottom"/>
+        <ListBox x:Name="animalListBox" HorizontalAlignment="Left" Height="260" Margin="108,43,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label Content="Animals" HorizontalAlignment="Left" Margin="109,22,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.082,0.453"/>
+        <ListBox x:Name="guestListBox" HorizontalAlignment="Left" Height="260" Margin="247,43,0,0" VerticalAlignment="Top" Width="96"/>
+        <Label Content="Guests" HorizontalAlignment="Left" Margin="249,22,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

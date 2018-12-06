@@ -1,0 +1,12 @@
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollector\bin\Debug\MoneyCollector.dll
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollector\bin\Debug\MoneyCollector.pdb
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollector\obj\Debug\MoneyCollectors.csprojResolveAssemblyReference.cache
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollector\obj\Debug\MoneyCollectors.csproj.CoreCompileInputs.cache
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollector\obj\Debug\MoneyCollector.dll
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollector\obj\Debug\MoneyCollector.pdb
+C:\Users\nebra\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollector\bin\Debug\MoneyCollector.dll
+C:\Users\nebra\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollector\bin\Debug\MoneyCollector.pdb
+C:\Users\nebra\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollector\obj\Debug\MoneyCollectors.csprojAssemblyReference.cache
+C:\Users\nebra\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollector\obj\Debug\MoneyCollectors.csproj.CoreCompileInputs.cache
+C:\Users\nebra\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollector\obj\Debug\MoneyCollector.dll
+C:\Users\nebra\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollector\obj\Debug\MoneyCollector.pdb

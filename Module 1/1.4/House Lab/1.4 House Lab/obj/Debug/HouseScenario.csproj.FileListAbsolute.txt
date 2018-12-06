@@ -1,0 +1,15 @@
+C:\Users\200112059\source\repos\1.4 House Lab\1.4 House Lab\bin\Debug\1.4 House Lab.exe.config
+C:\Users\200112059\source\repos\1.4 House Lab\1.4 House Lab\bin\Debug\1.4 House Lab.exe
+C:\Users\200112059\source\repos\1.4 House Lab\1.4 House Lab\bin\Debug\1.4 House Lab.pdb
+C:\Users\200112059\source\repos\1.4 House Lab\1.4 House Lab\obj\Debug\HouseScenario.csprojResolveAssemblyReference.cache
+C:\Users\200112059\source\repos\1.4 House Lab\1.4 House Lab\obj\Debug\MainWindow.g.cs
+C:\Users\200112059\source\repos\1.4 House Lab\1.4 House Lab\obj\Debug\App.g.cs
+C:\Users\200112059\source\repos\1.4 House Lab\1.4 House Lab\obj\Debug\1.4 House Lab_MarkupCompile.cache
+C:\Users\200112059\source\repos\1.4 House Lab\1.4 House Lab\obj\Debug\1.4 House Lab_MarkupCompile.lref
+C:\Users\200112059\source\repos\1.4 House Lab\1.4 House Lab\obj\Debug\MainWindow.baml
+C:\Users\200112059\source\repos\1.4 House Lab\1.4 House Lab\obj\Debug\1.4 House Lab.g.resources
+C:\Users\200112059\source\repos\1.4 House Lab\1.4 House Lab\obj\Debug\_1._4_House_Lab.Properties.Resources.resources
+C:\Users\200112059\source\repos\1.4 House Lab\1.4 House Lab\obj\Debug\HouseScenario.csproj.GenerateResource.cache
+C:\Users\200112059\source\repos\1.4 House Lab\1.4 House Lab\obj\Debug\HouseScenario.csproj.CoreCompileInputs.cache
+C:\Users\200112059\source\repos\1.4 House Lab\1.4 House Lab\obj\Debug\1.4 House Lab.exe
+C:\Users\200112059\source\repos\1.4 House Lab\1.4 House Lab\obj\Debug\1.4 House Lab.pdb

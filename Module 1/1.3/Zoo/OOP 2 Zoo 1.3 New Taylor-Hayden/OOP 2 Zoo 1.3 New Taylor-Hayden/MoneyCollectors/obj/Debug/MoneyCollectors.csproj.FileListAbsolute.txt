@@ -1,0 +1,22 @@
+C:\Users\Max\Dropbox\Semester 3\OOP 2\Module 1\1.2\Zoo\OOP 2 Zoo 1.1 Taylor-Hayden\MoneyCollectors\bin\Debug\MoneyCollectors.dll
+C:\Users\Max\Dropbox\Semester 3\OOP 2\Module 1\1.2\Zoo\OOP 2 Zoo 1.1 Taylor-Hayden\MoneyCollectors\bin\Debug\MoneyCollectors.pdb
+C:\Users\Max\Dropbox\Semester 3\OOP 2\Module 1\1.2\Zoo\OOP 2 Zoo 1.1 Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.csproj.CoreCompileInputs.cache
+C:\Users\Max\Dropbox\Semester 3\OOP 2\Module 1\1.2\Zoo\OOP 2 Zoo 1.1 Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.dll
+C:\Users\Max\Dropbox\Semester 3\OOP 2\Module 1\1.2\Zoo\OOP 2 Zoo 1.1 Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.pdb
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.2\Zoo\OOP 2 Zoo 1.2 Taylor-Hayden\MoneyCollectors\bin\Debug\MoneyCollectors.dll
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.2\Zoo\OOP 2 Zoo 1.2 Taylor-Hayden\MoneyCollectors\bin\Debug\MoneyCollectors.pdb
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.2\Zoo\OOP 2 Zoo 1.2 Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.csprojResolveAssemblyReference.cache
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.2\Zoo\OOP 2 Zoo 1.2 Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.csproj.CoreCompileInputs.cache
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.2\Zoo\OOP 2 Zoo 1.2 Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.dll
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.2\Zoo\OOP 2 Zoo 1.2 Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.pdb
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\Zoo\OOP 2 Zoo 1.3 New Taylor-Hayden\OOP 2 Zoo 1.3 New Taylor-Hayden\MoneyCollectors\bin\Debug\MoneyCollectors.dll
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\Zoo\OOP 2 Zoo 1.3 New Taylor-Hayden\OOP 2 Zoo 1.3 New Taylor-Hayden\MoneyCollectors\bin\Debug\MoneyCollectors.pdb
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\Zoo\OOP 2 Zoo 1.3 New Taylor-Hayden\OOP 2 Zoo 1.3 New Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.csprojResolveAssemblyReference.cache
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\Zoo\OOP 2 Zoo 1.3 New Taylor-Hayden\OOP 2 Zoo 1.3 New Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.csproj.CoreCompileInputs.cache
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\Zoo\OOP 2 Zoo 1.3 New Taylor-Hayden\OOP 2 Zoo 1.3 New Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.dll
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\Zoo\OOP 2 Zoo 1.3 New Taylor-Hayden\OOP 2 Zoo 1.3 New Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.pdb
+C:\Users\nebra\Dropbox\Semester 3\OOP 2\Module 1\1.3\Zoo\OOP 2 Zoo 1.3 New Taylor-Hayden\OOP 2 Zoo 1.3 New Taylor-Hayden\MoneyCollectors\bin\Debug\MoneyCollectors.dll
+C:\Users\nebra\Dropbox\Semester 3\OOP 2\Module 1\1.3\Zoo\OOP 2 Zoo 1.3 New Taylor-Hayden\OOP 2 Zoo 1.3 New Taylor-Hayden\MoneyCollectors\bin\Debug\MoneyCollectors.pdb
+C:\Users\nebra\Dropbox\Semester 3\OOP 2\Module 1\1.3\Zoo\OOP 2 Zoo 1.3 New Taylor-Hayden\OOP 2 Zoo 1.3 New Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.csproj.CoreCompileInputs.cache
+C:\Users\nebra\Dropbox\Semester 3\OOP 2\Module 1\1.3\Zoo\OOP 2 Zoo 1.3 New Taylor-Hayden\OOP 2 Zoo 1.3 New Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.dll
+C:\Users\nebra\Dropbox\Semester 3\OOP 2\Module 1\1.3\Zoo\OOP 2 Zoo 1.3 New Taylor-Hayden\OOP 2 Zoo 1.3 New Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.pdb

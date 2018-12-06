@@ -1,0 +1,12 @@
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItem\bin\Debug\ConcessionItem.dll
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItem\bin\Debug\ConcessionItem.pdb
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItem\obj\Debug\ConcessionItems.csprojResolveAssemblyReference.cache
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItem\obj\Debug\ConcessionItems.csproj.CoreCompileInputs.cache
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItem\obj\Debug\ConcessionItem.dll
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItem\obj\Debug\ConcessionItem.pdb
+C:\Users\nebra\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItem\bin\Debug\ConcessionItem.dll
+C:\Users\nebra\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItem\bin\Debug\ConcessionItem.pdb
+C:\Users\nebra\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItem\obj\Debug\ConcessionItems.csprojAssemblyReference.cache
+C:\Users\nebra\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItem\obj\Debug\ConcessionItems.csproj.CoreCompileInputs.cache
+C:\Users\nebra\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItem\obj\Debug\ConcessionItem.dll
+C:\Users\nebra\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\ConcessionItem\obj\Debug\ConcessionItem.pdb

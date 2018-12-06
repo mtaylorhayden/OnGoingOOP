@@ -1,0 +1,15 @@
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollectors\bin\Debug\MoneyCollectors.exe.config
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollectors\bin\Debug\MoneyCollectors.exe
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollectors\bin\Debug\MoneyCollectors.pdb
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.csprojResolveAssemblyReference.cache
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollectors\obj\Debug\MainWindow.g.cs
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollectors\obj\Debug\App.g.cs
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors_MarkupCompile.cache
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors_MarkupCompile.lref
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollectors\obj\Debug\MainWindow.baml
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.g.resources
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.Properties.Resources.resources
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.csproj.GenerateResource.cache
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.csproj.CoreCompileInputs.cache
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.exe
+C:\Users\200112059\Dropbox\Semester 3\OOP 2\Module 1\1.3\OOP 2 Theater Test 1.3 Taylor-Hayden\OOP 2 Theater Test 1.3 Taylor-Hayden\MoneyCollectors\obj\Debug\MoneyCollectors.pdb

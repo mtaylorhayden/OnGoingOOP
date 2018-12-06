@@ -1,0 +1,6 @@
+C:\Users\Max\Dropbox\Semester 3\OOP 2\Module 1\1.1\Zoo\1.1Zoo\OOP 2 Zoo 1.1 Taylor-Hayden\BoothItems\bin\Debug\BoothItems.dll
+C:\Users\Max\Dropbox\Semester 3\OOP 2\Module 1\1.1\Zoo\1.1Zoo\OOP 2 Zoo 1.1 Taylor-Hayden\BoothItems\bin\Debug\BoothItems.pdb
+C:\Users\Max\Dropbox\Semester 3\OOP 2\Module 1\1.1\Zoo\1.1Zoo\OOP 2 Zoo 1.1 Taylor-Hayden\BoothItems\obj\Debug\BoothItems.csproj.CoreCompileInputs.cache
+C:\Users\Max\Dropbox\Semester 3\OOP 2\Module 1\1.1\Zoo\1.1Zoo\OOP 2 Zoo 1.1 Taylor-Hayden\BoothItems\obj\Debug\BoothItems.dll
+C:\Users\Max\Dropbox\Semester 3\OOP 2\Module 1\1.1\Zoo\1.1Zoo\OOP 2 Zoo 1.1 Taylor-Hayden\BoothItems\obj\Debug\BoothItems.pdb
+C:\Users\Max\Dropbox\Semester 3\OOP 2\Module 1\1.1\Zoo\1.1Zoo\OOP 2 Zoo 1.1 Taylor-Hayden\BoothItems\obj\Debug\BoothItems.csprojResolveAssemblyReference.cache

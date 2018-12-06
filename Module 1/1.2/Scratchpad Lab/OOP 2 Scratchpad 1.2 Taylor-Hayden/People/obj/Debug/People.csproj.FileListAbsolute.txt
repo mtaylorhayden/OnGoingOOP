@@ -1,0 +1,6 @@
+C:\Users\Max\Dropbox\Semester 3\OOP 2\Module 1\1.1\1.1Scratchpad\OOP 2 Scratchpad 1.1 Taylor-Hayden\People\bin\Debug\People.dll
+C:\Users\Max\Dropbox\Semester 3\OOP 2\Module 1\1.1\1.1Scratchpad\OOP 2 Scratchpad 1.1 Taylor-Hayden\People\bin\Debug\People.pdb
+C:\Users\Max\Dropbox\Semester 3\OOP 2\Module 1\1.1\1.1Scratchpad\OOP 2 Scratchpad 1.1 Taylor-Hayden\People\obj\Debug\People.csprojResolveAssemblyReference.cache
+C:\Users\Max\Dropbox\Semester 3\OOP 2\Module 1\1.1\1.1Scratchpad\OOP 2 Scratchpad 1.1 Taylor-Hayden\People\obj\Debug\People.csproj.CoreCompileInputs.cache
+C:\Users\Max\Dropbox\Semester 3\OOP 2\Module 1\1.1\1.1Scratchpad\OOP 2 Scratchpad 1.1 Taylor-Hayden\People\obj\Debug\People.dll
+C:\Users\Max\Dropbox\Semester 3\OOP 2\Module 1\1.1\1.1Scratchpad\OOP 2 Scratchpad 1.1 Taylor-Hayden\People\obj\Debug\People.pdb

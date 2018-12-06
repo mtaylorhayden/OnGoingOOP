@@ -1,0 +1,12 @@
+﻿<Window x:Class="ZooScenario.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZooScenario"
+        mc:Ignorable="d"
+        Title="Object-Oriented Programming 2: Zoo" Height="330" Width="440" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button x:Name="admitGuestButton" Content="Admit Guest" HorizontalAlignment="Left" Height="17" Margin="19,43,0,0" VerticalAlignment="Top" Width="91" Click="admitGuestButton_Click"/>
+    </Grid>
+</Window>
